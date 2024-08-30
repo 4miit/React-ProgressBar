@@ -5,7 +5,7 @@ export default function App() {
 
   useEffect(() => {
     const interval = setInterval(() => {
-      console.log("interval running");
+      console.log("interval running"); //  to check memory leak 
 
       setBAr((b: number) => {
         if (b >= 100) {
