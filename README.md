@@ -1,25 +1,8 @@
-# React + TypeScript + Vite
+# React + Typescript + vite
 
-<<<<<<< HEAD
-=======
+<br>
 
->>>>>>> d6b16e65a6e84ddc1723fde712ab577a33feb7f7
- <br>
- 
- 
-
-
-
-
-
-
-
-
-<<<<<<< HEAD
-## `project live link :-` https://react-progress-bar-three.vercel.app/
-=======
-## `project live link :-` https://react-progress-a9qyfouez-amit-kumars-projects-d761c49e.vercel.app/
->>>>>>> d6b16e65a6e84ddc1723fde712ab577a33feb7f7
+ ## `project live link :-` https://react-progress-bar-three.vercel.app/
 
 <br>
 <br>
